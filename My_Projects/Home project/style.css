@@ -1,0 +1,48 @@
+.header{
+	color: #01073a;
+	margin-top: 0px;
+	margin: 0;
+	text-align: center;
+	text-transform: uppercase;
+	margin-left: auto;
+	margin-right: auto;
+}
+body{
+	margin: 0px;
+	width:100%;
+}
+span{
+	font-size: 50px;
+}
+h4{
+	text-align: center;
+}
+.full{
+	background-color: #ffc759;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+h4{
+	font-size: 18px;
+}
+p{
+	padding: 0px 40px;
+	text-align: center;
+}
+.block{
+	width: 33%;
+	float: left;
+}
+.block img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 200px;
+	width: 250px;
+	height: 250px;
+}
+.button{
+	width: 100%;
+	clear: both;
+}

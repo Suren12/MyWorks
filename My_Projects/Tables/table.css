@@ -1,0 +1,53 @@
+caption{
+	text-transform: uppercase;
+	color: #404951;
+	font-size: 40px;
+}
+table,tr,td,th{
+	border: 2px solid #9ea3a8;
+}
+table{
+	display: inline;
+	border-collapse: collapse;
+}
+span{
+	display: block;
+}
+tr,td{
+	background-color: #ced6dd;
+}
+ol{
+	text-align: center;
+}
+.head{
+	background-color: #757d87;
+}
+.lunch{
+	background-color: #acb5c1;
+	color: #51565b;
+	text-align: center;
+	font-size: 30px;
+}
+.individuum{ 
+	border-color: #fff;
+	width: 30px;
+	margin-top: 35px;
+	margin-left: 10%;
+}
+hr{
+	margin-top: 35px;
+	background-color: #acb5c1;
+}
+.fine{
+	text-decoration: line-through;
+}
+.country{
+	padding-left: 30px;
+	width: 30px;
+	border-color: #fff;
+	margin-left: 30%;
+}
+.country>caption{
+	color: #3dade5;
+	font-size: 47px;
+}

@@ -1,0 +1,52 @@
+body{
+	margin:0;
+	width: 100%;
+}
+h1,h5{
+	text-align: center;
+}
+h1{
+	margin-bottom: 0;
+}
+h5{
+	margin-top: 5px;
+}
+.full{
+	width:75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.img{
+	width: 50px;
+	height: 50px;
+}
+.part{
+	float: left;
+	width: 45%;
+	display: inline-block;
+	margin-bottom: 50px;
+	
+}
+#first{
+	padding-right: 56px;
+}
+#second{
+	padding-left: 56px;
+}
+
+.divimg{
+	float: left;
+	height: 150px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+h2{
+	margin: 0;
+}
+p{
+	max-width: 450px;
+}
+.clear{
+	clear: both;
+}

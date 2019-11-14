@@ -1,0 +1,17 @@
+table{
+    margin: 0 auto;
+}
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+.btn {
+    font-family: 'Nunito', sans-serif;
+    background-image: radial-gradient(#f7f7f7,#dedddc );
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+    
+}

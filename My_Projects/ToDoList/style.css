@@ -1,0 +1,45 @@
+
+.header {
+    background-color: #d14949;
+}
+.inputArea {
+    display: inline-block;
+    padding: 5px;
+    border: none;
+    font-size: 20px;
+    color: #666666;
+    margin-left: 35%;
+    width: 30%;
+}
+
+.typing button {
+    background-color: lightgray; 
+    border: none;
+    padding: 3px;
+    font-size: 21px;
+}
+h1 {
+    color: #dedede;
+    display: block;
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+tr {
+    display: block;
+    margin: 10px 0;
+}
+td {
+    font-size: 30px;
+    background-color: #dedede;
+    transition: 2s;
+}
+td:hover {
+    background-color: #adadad;
+    cursor: pointer;
+}
+.typing {
+    padding-bottom: 20px;
+}
+.todolist {
+    font-size: 30px;
+}

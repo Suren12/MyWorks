@@ -1,0 +1,37 @@
+caption{
+	text-transform: uppercase;
+	color: #404951;
+	font-size: 40px;
+}
+table,tr,td,th{
+	border: 2px solid #9ea3a8;
+}
+table{
+	border-collapse: collapse;
+}
+span{
+	display: block;
+}
+tr,td{
+	background-color: #ced6dd;
+}
+ol{
+	text-align: center;
+}
+.head{
+	background-color: #757d87;
+}
+.lunch{
+	background-color: #acb5c1;
+	color: #51565b;
+	text-align: center;
+	font-size: 30px;
+}
+.individuum{ 
+	width: 30%;
+	margin-top: 35px;
+}
+hr{
+	margin-top: 35px;
+	background-color: #acb5c1;
+}
